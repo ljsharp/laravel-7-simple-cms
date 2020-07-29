@@ -31,7 +31,7 @@ Basic boilerplate content management system for starters, supports Laravel 7.0.
 
 Clone this repository and install the dependencies.
 
-    $ git clone https://github.com/ozdemirburak/laravel-7-simple-cms.git && cd laravel-7-simple-cms
+    $ git clone https://github.com/ljsharp/laravel-7-simple-cms.git && cd laravel-7-simple-cms
     $ composer install
 
 Run the command below to initialize. Do not forget to configure your .env file. 
